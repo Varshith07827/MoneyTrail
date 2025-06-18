@@ -1,4 +1,4 @@
-# MoneyTrail - Personal Expense Tracker
+# 💰MoneyTrail - Personal Expense Tracker
 
 A simple command-line expense tracker built in Python to help you monitor your spending habits and manage your personal finances.
 
